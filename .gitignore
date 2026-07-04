@@ -11,6 +11,7 @@ pnpm-debug.log*
 
 auto-imports.d.ts
 components.d.ts
+<<<<<<< HEAD
 
 dist/
 tmp/
@@ -18,3 +19,5 @@ tmp/
 .github-sync/
 export/
 
+=======
+>>>>>>> 24c09dd0d2e3a345ced6bd6449ff0c89cd686543
